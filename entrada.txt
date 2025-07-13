@@ -1,0 +1,840 @@
+Atlético Andina
+Ciclón Central
+5
+1
+Unión Costera
+Mineros del Norte
+3
+2
+Real Llanura
+Rayo del Oriente
+3
+0
+Mineros del Norte
+Real Llanura
+0
+5
+Titanes del Caribe
+F.C. Nevado
+0
+1
+Rayo del Oriente
+Estrella del Sur
+1
+1
+Unión Costera
+Real Llanura
+4
+4
+Guerreros del Sol
+Titanes del Caribe
+2
+1
+Sporting Selva
+Guerreros del Sol
+5
+0
+Atlético Andina
+Unión Costera
+5
+5
+Cóndores Rojos
+Titanes del Caribe
+0
+3
+Atlético Andina
+Deportivo Cafetal
+5
+5
+Cóndores Rojos
+Real Llanura
+2
+1
+Unión Costera
+Sporting Selva
+5
+3
+Jaguares Dorados
+Cóndores Rojos
+0
+5
+Halcones Verdes
+Guerreros del Sol
+5
+1
+Cóndores Rojos
+F.C. Nevado
+1
+5
+Unión Costera
+Rayo del Oriente
+4
+3
+Real Llanura
+Cóndores Rojos
+1
+0
+Rayo del Oriente
+Cóndores Rojos
+0
+0
+Real Llanura
+Mineros del Norte
+2
+4
+Real Llanura
+Deportivo Cafetal
+4
+0
+Deportivo Cafetal
+Unión Costera
+1
+0
+F.C. Nevado
+Cóndores Rojos
+4
+2
+Unión Costera
+Titanes del Caribe
+5
+3
+Deportivo Cafetal
+Atlético Andina
+4
+1
+F.C. Nevado
+Jaguares Dorados
+0
+2
+Ciclón Central
+Cóndores Rojos
+1
+2
+Jaguares Dorados
+Deportivo Cafetal
+1
+1
+Real Llanura
+Guerreros del Sol
+3
+0
+Mineros del Norte
+Unión Costera
+4
+3
+Atlético Andina
+Titanes del Caribe
+4
+4
+Deportivo Cafetal
+Halcones Verdes
+3
+1
+Guerreros del Sol
+Mineros del Norte
+1
+4
+Rayo del Oriente
+Sporting Selva
+0
+4
+Atlético Andina
+Guerreros del Sol
+0
+2
+Guerreros del Sol
+Sporting Selva
+0
+4
+Cóndores Rojos
+Ciclón Central
+3
+4
+F.C. Nevado
+Sporting Selva
+0
+2
+Estrella del Sur
+Cóndores Rojos
+4
+3
+F.C. Nevado
+Atlético Andina
+4
+1
+Titanes del Caribe
+Rayo del Oriente
+1
+5
+Mineros del Norte
+Atlético Andina
+3
+0
+Guerreros del Sol
+Ciclón Central
+2
+0
+Unión Costera
+Jaguares Dorados
+0
+3
+Guerreros del Sol
+Atlético Andina
+5
+1
+Mineros del Norte
+Cóndores Rojos
+3
+0
+Atlético Andina
+Mineros del Norte
+1
+3
+Jaguares Dorados
+Ciclón Central
+1
+2
+Jaguares Dorados
+Mineros del Norte
+2
+0
+Guerreros del Sol
+Estrella del Sur
+1
+3
+Mineros del Norte
+Guerreros del Sol
+2
+1
+Unión Costera
+Halcones Verdes
+0
+0
+Unión Costera
+Ciclón Central
+5
+0
+Jaguares Dorados
+Rayo del Oriente
+3
+0
+Titanes del Caribe
+Halcones Verdes
+5
+3
+F.C. Nevado
+Mineros del Norte
+1
+3
+Titanes del Caribe
+Mineros del Norte
+5
+4
+Ciclón Central
+Real Llanura
+3
+3
+Sporting Selva
+Estrella del Sur
+0
+2
+Cóndores Rojos
+Jaguares Dorados
+0
+3
+Titanes del Caribe
+Atlético Andina
+4
+3
+Atlético Andina
+Estrella del Sur
+0
+1
+Sporting Selva
+Halcones Verdes
+3
+5
+Mineros del Norte
+Estrella del Sur
+5
+3
+Rayo del Oriente
+Titanes del Caribe
+4
+4
+Titanes del Caribe
+Jaguares Dorados
+3
+3
+Atlético Andina
+Cóndores Rojos
+4
+2
+F.C. Nevado
+Ciclón Central
+3
+4
+Rayo del Oriente
+Mineros del Norte
+5
+2
+Halcones Verdes
+Titanes del Caribe
+3
+2
+Guerreros del Sol
+F.C. Nevado
+2
+2
+Rayo del Oriente
+Halcones Verdes
+1
+5
+Ciclón Central
+Rayo del Oriente
+5
+5
+Unión Costera
+Cóndores Rojos
+1
+3
+Sporting Selva
+Jaguares Dorados
+2
+4
+Halcones Verdes
+Cóndores Rojos
+0
+4
+Jaguares Dorados
+Halcones Verdes
+1
+3
+Halcones Verdes
+Deportivo Cafetal
+1
+5
+Halcones Verdes
+Jaguares Dorados
+5
+4
+Ciclón Central
+Estrella del Sur
+5
+3
+Sporting Selva
+F.C. Nevado
+3
+0
+Deportivo Cafetal
+Cóndores Rojos
+1
+2
+Deportivo Cafetal
+F.C. Nevado
+0
+1
+Rayo del Oriente
+Ciclón Central
+5
+2
+Halcones Verdes
+Sporting Selva
+4
+2
+Jaguares Dorados
+F.C. Nevado
+3
+0
+Cóndores Rojos
+Deportivo Cafetal
+1
+5
+Real Llanura
+F.C. Nevado
+2
+2
+Sporting Selva
+Mineros del Norte
+1
+4
+Atlético Andina
+F.C. Nevado
+2
+2
+Atlético Andina
+Sporting Selva
+3
+4
+Deportivo Cafetal
+Guerreros del Sol
+0
+1
+Real Llanura
+Halcones Verdes
+1
+4
+Guerreros del Sol
+Jaguares Dorados
+3
+1
+Deportivo Cafetal
+Rayo del Oriente
+1
+3
+Cóndores Rojos
+Halcones Verdes
+1
+2
+Estrella del Sur
+Jaguares Dorados
+0
+5
+Estrella del Sur
+Guerreros del Sol
+1
+0
+F.C. Nevado
+Rayo del Oriente
+0
+3
+Jaguares Dorados
+Sporting Selva
+1
+5
+Mineros del Norte
+Sporting Selva
+3
+3
+Estrella del Sur
+Ciclón Central
+0
+2
+Cóndores Rojos
+Atlético Andina
+1
+0
+Titanes del Caribe
+Ciclón Central
+5
+5
+Jaguares Dorados
+Unión Costera
+1
+2
+Jaguares Dorados
+Guerreros del Sol
+0
+5
+F.C. Nevado
+Titanes del Caribe
+3
+0
+Cóndores Rojos
+Guerreros del Sol
+5
+3
+Deportivo Cafetal
+Titanes del Caribe
+4
+1
+Sporting Selva
+Atlético Andina
+4
+0
+Titanes del Caribe
+Guerreros del Sol
+4
+5
+Estrella del Sur
+Mineros del Norte
+3
+3
+Atlético Andina
+Halcones Verdes
+5
+1
+Cóndores Rojos
+Estrella del Sur
+0
+3
+Sporting Selva
+Ciclón Central
+3
+5
+F.C. Nevado
+Guerreros del Sol
+0
+3
+Mineros del Norte
+Rayo del Oriente
+1
+1
+Titanes del Caribe
+Cóndores Rojos
+3
+1
+Jaguares Dorados
+Titanes del Caribe
+2
+5
+Real Llanura
+Titanes del Caribe
+0
+5
+Estrella del Sur
+F.C. Nevado
+2
+4
+F.C. Nevado
+Unión Costera
+0
+3
+Real Llanura
+Ciclón Central
+5
+2
+Titanes del Caribe
+Unión Costera
+3
+0
+Estrella del Sur
+Rayo del Oriente
+3
+0
+Sporting Selva
+Rayo del Oriente
+0
+2
+Mineros del Norte
+Titanes del Caribe
+0
+1
+Ciclón Central
+Deportivo Cafetal
+0
+0
+Halcones Verdes
+Estrella del Sur
+0
+3
+Sporting Selva
+Cóndores Rojos
+1
+1
+Guerreros del Sol
+Real Llanura
+4
+1
+Ciclón Central
+Jaguares Dorados
+2
+5
+Estrella del Sur
+Atlético Andina
+1
+5
+Jaguares Dorados
+Real Llanura
+1
+3
+Real Llanura
+Jaguares Dorados
+0
+5
+Titanes del Caribe
+Sporting Selva
+4
+5
+Unión Costera
+Estrella del Sur
+4
+1
+Real Llanura
+Atlético Andina
+2
+5
+Ciclón Central
+Sporting Selva
+0
+0
+Halcones Verdes
+Ciclón Central
+5
+0
+Ciclón Central
+Unión Costera
+1
+3
+Halcones Verdes
+Atlético Andina
+0
+1
+Jaguares Dorados
+Estrella del Sur
+2
+5
+Ciclón Central
+Titanes del Caribe
+0
+5
+Titanes del Caribe
+Deportivo Cafetal
+3
+5
+Ciclón Central
+F.C. Nevado
+2
+4
+Rayo del Oriente
+Real Llanura
+2
+1
+Unión Costera
+Deportivo Cafetal
+0
+4
+Rayo del Oriente
+Jaguares Dorados
+5
+0
+Mineros del Norte
+Ciclón Central
+1
+5
+Cóndores Rojos
+Mineros del Norte
+2
+3
+Cóndores Rojos
+Unión Costera
+2
+3
+Titanes del Caribe
+Real Llanura
+5
+1
+Sporting Selva
+Unión Costera
+4
+5
+Estrella del Sur
+Deportivo Cafetal
+4
+0
+Ciclón Central
+Guerreros del Sol
+2
+2
+Halcones Verdes
+Rayo del Oriente
+3
+1
+Atlético Andina
+Jaguares Dorados
+5
+3
+Estrella del Sur
+Unión Costera
+3
+4
+Unión Costera
+Atlético Andina
+1
+1
+Sporting Selva
+Deportivo Cafetal
+2
+5
+Guerreros del Sol
+Rayo del Oriente
+0
+2
+Halcones Verdes
+Unión Costera
+2
+4
+F.C. Nevado
+Estrella del Sur
+4
+3
+Halcones Verdes
+F.C. Nevado
+0
+5
+Guerreros del Sol
+Cóndores Rojos
+0
+0
+Real Llanura
+Estrella del Sur
+4
+2
+Rayo del Oriente
+Deportivo Cafetal
+4
+4
+Rayo del Oriente
+Guerreros del Sol
+1
+2
+Mineros del Norte
+Jaguares Dorados
+4
+4
+Ciclón Central
+Mineros del Norte
+2
+0
+Cóndores Rojos
+Sporting Selva
+5
+5
+Mineros del Norte
+Halcones Verdes
+5
+0
+Atlético Andina
+Rayo del Oriente
+5
+2
+Ciclón Central
+Halcones Verdes
+5
+2
+Deportivo Cafetal
+Estrella del Sur
+5
+0
+Deportivo Cafetal
+Sporting Selva
+3
+2
+Rayo del Oriente
+Unión Costera
+3
+4
+Sporting Selva
+Titanes del Caribe
+4
+3
+Rayo del Oriente
+Atlético Andina
+0
+0
+Unión Costera
+F.C. Nevado
+3
+5
+Ciclón Central
+Atlético Andina
+2
+1
+Deportivo Cafetal
+Mineros del Norte
+1
+5
+Unión Costera
+Guerreros del Sol
+1
+3
+Atlético Andina
+Real Llanura
+5
+1
+Real Llanura
+Unión Costera
+1
+1
+Mineros del Norte
+Deportivo Cafetal
+1
+0
+Titanes del Caribe
+Estrella del Sur
+5
+0
+Estrella del Sur
+Sporting Selva
+1
+2
+Guerreros del Sol
+Unión Costera
+0
+1
+Mineros del Norte
+F.C. Nevado
+1
+1
+Deportivo Cafetal
+Ciclón Central
+3
+4
+Estrella del Sur
+Real Llanura
+4
+5
+F.C. Nevado
+Halcones Verdes
+1
+2
+Cóndores Rojos
+Rayo del Oriente
+2
+0
+Jaguares Dorados
+Atlético Andina
+5
+1
+F.C. Nevado
+Deportivo Cafetal
+4
+4
+Guerreros del Sol
+Halcones Verdes
+0
+2
+Estrella del Sur
+Halcones Verdes
+5
+0
+Deportivo Cafetal
+Jaguares Dorados
+4
+1
+Real Llanura
+Sporting Selva
+0
+4
+F.C. Nevado
+Real Llanura
+2
+3
+Estrella del Sur
+Titanes del Caribe
+0
+2
+Deportivo Cafetal
+Real Llanura
+4
+1
+Rayo del Oriente
+F.C. Nevado
+3
+5
+Halcones Verdes
+Real Llanura
+5
+2
+Sporting Selva
+Real Llanura
+5
+0
+Guerreros del Sol
+Deportivo Cafetal
+2
+5
+Halcones Verdes
+Mineros del Norte
+5
+2
