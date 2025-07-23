@@ -4,6 +4,7 @@
 #include <string>
 #include <algorithm>
 #include <map>
+#include <iomanip>
 
 using namespace std;
 
@@ -130,35 +131,121 @@ void diferenciagoles(vector<partido>& Partidos,map<string,equipo>& Equipos){
     
 }
 
+bool compararequipos(const equipo& equipoA, const equipo& equipoB){
+    
+    if(equipoA.estadisticas[1]!=equipoB.estadisticas[1]){
+        
+        return equipoA.estadisticas[1]>equipoB.estadisticas[1];
+        
+    }else if(equipoA.estadisticas[4]!=equipoB.estadisticas[4]){
+        
+        return equipoA.estadisticas[4]>equipoB.estadisticas[4];
+        
+    }else if(equipoA.estadisticas[2]!=equipoB.estadisticas[2]){
+        
+        return equipoA.estadisticas[2]>equipoB.estadisticas[2];
+    }
+    
+    return equipoA.nombre>equipoB.nombre;
+}
+
+void ordenartabla(map<string,equipo>& Equipos, vector<equipo>& tablaordenada){
+    
+    for(auto const& x: Equipos){
+        
+        tablaordenada.push_back(x.second);
+    }
+    
+    sort(tablaordenada.begin(),tablaordenada.end(),compararequipos);
+    
+}
+
+void imprimirtabla(const vector<equipo>& tablaordenada){
+    
+    ofstream salida("salida.txt");
+    
+    cout << "Tabla de Equipos" << endl;
+    salida << "Tabla de Equipos" << endl;
+
+    cout << "------------------------------------------------------------------------------------------------" << endl;
+    salida << "------------------------------------------------------------------------------------------------" << endl;
+
+   cout << left << setw(25) << "Equipo"
+         << setw(8) << "PJ"
+         << setw(8) << "Pts"
+         << setw(8) << "GF"
+         << setw(8) << "GC"
+         << setw(8) << "DG"
+         << setw(8) << "PG"
+         << setw(8) << "PP"
+         << setw(8) << "PE" << endl;
+
+    salida << left << setw(25) << "Equipo"
+           << setw(8) << "PJ"
+           << setw(8) << "Pts"
+           << setw(8) << "GF"
+           << setw(8) << "GC"
+           << setw(8) << "DG"
+           << setw(8) << "PG"
+           << setw(8) << "PP"
+           << setw(8) << "PE" << endl;
+           
+    cout << "------------------------------------------------------------------------------------------------" << endl;
+    salida << "------------------------------------------------------------------------------------------------" << endl;
+    
+     for (const auto& eq : tablaordenada) {
+         
+        cout << left << setw(25) << eq.nombre
+             << right <<setw(8) << (int)eq.estadisticas[0]
+             << setw(8) << (int)eq.estadisticas[1]
+             << setw(8) << (int)eq.estadisticas[2]
+             << setw(8) << (int)eq.estadisticas[3]
+             << setw(8) << (int)eq.estadisticas[4]
+             << setw(8) << (int)eq.estadisticas[5]
+             << setw(8) << (int)eq.estadisticas[6]
+             << setw(8) << (int)eq.estadisticas[7] << endl;
+
+        salida << left << setw(25) << eq.nombre
+             << right <<setw(8) << (int)eq.estadisticas[0]
+             << setw(8) << (int)eq.estadisticas[1]
+             << setw(8) << (int)eq.estadisticas[2]
+             << setw(8) << (int)eq.estadisticas[3]
+             << setw(8) << (int)eq.estadisticas[4]
+             << setw(8) << (int)eq.estadisticas[5]
+             << setw(8) << (int)eq.estadisticas[6]
+             << setw(8) << (int)eq.estadisticas[7] << endl;
+    }
+    cout << "------------------------------------------------------------------------------------------------" << endl;
+    salida << "------------------------------------------------------------------------------------------------" << endl;
+    
+    salida.close();
+}
+
 int main()
 {
     vector<partido> Partidos;
     map<string,equipo> Equipos;
+    vector<equipo> tablaordenada;
     
     leerarchivo(Partidos);
     contarpartidos(Partidos, Equipos);
     contarpuntos(Partidos, Equipos);
     diferenciagoles(Partidos, Equipos);
+    ordenartabla(Equipos,tablaordenada);
+    imprimirtabla(tablaordenada);
     
     ofstream salida2("salida2.txt");
     
     for(partido x: Partidos){
       
-      cout<<x.equipo1<<" "<<x.goles1<<" "<<x.equipo2<<" "<<x.goles2<<endl;
-      salida2<<x.equipo1<<" "<<x.goles1<<" "<<x.equipo2<<" "<<x.goles2<<endl;
+      cout << left << setw(25) << x.equipo1 << setw(8) <<x.goles1;
+      cout << right <<setw(25) << x.equipo2 << setw(8) << x.goles2<<endl;
+      
+      salida2 << left << setw(25) << x.equipo1 << setw(8) <<x.goles1;
+      salida2 << right <<setw(25) << x.equipo2 << setw(8) << x.goles2<<endl;
+      
     }
     
-    
-    ofstream salida("salida.txt");
-    
-    for(auto x: Equipos){
-        
-        cout<<x.first<<" Pj: "<<x.second.estadisticas[0]<<" Pts: "<<x.second.estadisticas[1]<<" Gf: "<<x.second.estadisticas[2]<<" Gc: "<<x.second.estadisticas[3]<<" Df: "<<x.second.estadisticas[4]<<" Pg: "<<x.second.estadisticas[5]<<" Pp: "<<x.second.estadisticas[6]<<" Pe: "<<x.second.estadisticas[7]<<endl;
-        salida<<x.first<<" Pj: "<<x.second.estadisticas[0]<<" Pts: "<<x.second.estadisticas[1]<<" Gf: "<<x.second.estadisticas[2]<<" Gc: "<<x.second.estadisticas[3]<<" Df: "<<x.second.estadisticas[4]<<" Pg: "<<x.second.estadisticas[5]<<" Pp: "<<x.second.estadisticas[6]<<" Pe: "<<x.second.estadisticas[7]<<endl;
-        
-    }
-    
-    salida.close();
     salida2.close();
 
     return 0;
