@@ -1,0 +1,210 @@
+Atlético Andina         5                 Ciclón Central       1
+Unión Costera           3               Mineros del Norte       2
+Real Llanura             3                Rayo del Oriente       0
+Mineros del Norte        0                    Real Llanura       5
+Titanes del Caribe       0                     F.C. Nevado       1
+Rayo del Oriente         1                Estrella del Sur       1
+Unión Costera           4                    Real Llanura       4
+Guerreros del Sol        2              Titanes del Caribe       1
+Sporting Selva           5               Guerreros del Sol       0
+Atlético Andina         5                  Unión Costera       5
+Cóndores Rojos          0              Titanes del Caribe       3
+Atlético Andina         5               Deportivo Cafetal       5
+Cóndores Rojos          2                    Real Llanura       1
+Unión Costera           5                  Sporting Selva       3
+Jaguares Dorados         0                 Cóndores Rojos       5
+Halcones Verdes          5               Guerreros del Sol       1
+Cóndores Rojos          1                     F.C. Nevado       5
+Unión Costera           4                Rayo del Oriente       3
+Real Llanura             1                 Cóndores Rojos       0
+Rayo del Oriente         0                 Cóndores Rojos       0
+Real Llanura             2               Mineros del Norte       4
+Real Llanura             4               Deportivo Cafetal       0
+Deportivo Cafetal        1                  Unión Costera       0
+F.C. Nevado              4                 Cóndores Rojos       2
+Unión Costera           5              Titanes del Caribe       3
+Deportivo Cafetal        4                Atlético Andina       1
+F.C. Nevado              0                Jaguares Dorados       2
+Ciclón Central          1                 Cóndores Rojos       2
+Jaguares Dorados         1               Deportivo Cafetal       1
+Real Llanura             3               Guerreros del Sol       0
+Mineros del Norte        4                  Unión Costera       3
+Atlético Andina         4              Titanes del Caribe       4
+Deportivo Cafetal        3                 Halcones Verdes       1
+Guerreros del Sol        1               Mineros del Norte       4
+Rayo del Oriente         0                  Sporting Selva       4
+Atlético Andina         0               Guerreros del Sol       2
+Guerreros del Sol        0                  Sporting Selva       4
+Cóndores Rojos          3                 Ciclón Central       4
+F.C. Nevado              0                  Sporting Selva       2
+Estrella del Sur         4                 Cóndores Rojos       3
+F.C. Nevado              4                Atlético Andina       1
+Titanes del Caribe       1                Rayo del Oriente       5
+Mineros del Norte        3                Atlético Andina       0
+Guerreros del Sol        2                 Ciclón Central       0
+Unión Costera           0                Jaguares Dorados       3
+Guerreros del Sol        5                Atlético Andina       1
+Mineros del Norte        3                 Cóndores Rojos       0
+Atlético Andina         1               Mineros del Norte       3
+Jaguares Dorados         1                 Ciclón Central       2
+Jaguares Dorados         2               Mineros del Norte       0
+Guerreros del Sol        1                Estrella del Sur       3
+Mineros del Norte        2               Guerreros del Sol       1
+Unión Costera           0                 Halcones Verdes       0
+Unión Costera           5                 Ciclón Central       0
+Jaguares Dorados         3                Rayo del Oriente       0
+Titanes del Caribe       5                 Halcones Verdes       3
+F.C. Nevado              1               Mineros del Norte       3
+Titanes del Caribe       5               Mineros del Norte       4
+Ciclón Central          3                    Real Llanura       3
+Sporting Selva           0                Estrella del Sur       2
+Cóndores Rojos          0                Jaguares Dorados       3
+Titanes del Caribe       4                Atlético Andina       3
+Atlético Andina         0                Estrella del Sur       1
+Sporting Selva           3                 Halcones Verdes       5
+Mineros del Norte        5                Estrella del Sur       3
+Rayo del Oriente         4              Titanes del Caribe       4
+Titanes del Caribe       3                Jaguares Dorados       3
+Atlético Andina         4                 Cóndores Rojos       2
+F.C. Nevado              3                 Ciclón Central       4
+Rayo del Oriente         5               Mineros del Norte       2
+Halcones Verdes          3              Titanes del Caribe       2
+Guerreros del Sol        2                     F.C. Nevado       2
+Rayo del Oriente         1                 Halcones Verdes       5
+Ciclón Central          5                Rayo del Oriente       5
+Unión Costera           1                 Cóndores Rojos       3
+Sporting Selva           2                Jaguares Dorados       4
+Halcones Verdes          0                 Cóndores Rojos       4
+Jaguares Dorados         1                 Halcones Verdes       3
+Halcones Verdes          1               Deportivo Cafetal       5
+Halcones Verdes          5                Jaguares Dorados       4
+Ciclón Central          5                Estrella del Sur       3
+Sporting Selva           3                     F.C. Nevado       0
+Deportivo Cafetal        1                 Cóndores Rojos       2
+Deportivo Cafetal        0                     F.C. Nevado       1
+Rayo del Oriente         5                 Ciclón Central       2
+Halcones Verdes          4                  Sporting Selva       2
+Jaguares Dorados         3                     F.C. Nevado       0
+Cóndores Rojos          1               Deportivo Cafetal       5
+Real Llanura             2                     F.C. Nevado       2
+Sporting Selva           1               Mineros del Norte       4
+Atlético Andina         2                     F.C. Nevado       2
+Atlético Andina         3                  Sporting Selva       4
+Deportivo Cafetal        0               Guerreros del Sol       1
+Real Llanura             1                 Halcones Verdes       4
+Guerreros del Sol        3                Jaguares Dorados       1
+Deportivo Cafetal        1                Rayo del Oriente       3
+Cóndores Rojos          1                 Halcones Verdes       2
+Estrella del Sur         0                Jaguares Dorados       5
+Estrella del Sur         1               Guerreros del Sol       0
+F.C. Nevado              0                Rayo del Oriente       3
+Jaguares Dorados         1                  Sporting Selva       5
+Mineros del Norte        3                  Sporting Selva       3
+Estrella del Sur         0                 Ciclón Central       2
+Cóndores Rojos          1                Atlético Andina       0
+Titanes del Caribe       5                 Ciclón Central       5
+Jaguares Dorados         1                  Unión Costera       2
+Jaguares Dorados         0               Guerreros del Sol       5
+F.C. Nevado              3              Titanes del Caribe       0
+Cóndores Rojos          5               Guerreros del Sol       3
+Deportivo Cafetal        4              Titanes del Caribe       1
+Sporting Selva           4                Atlético Andina       0
+Titanes del Caribe       4               Guerreros del Sol       5
+Estrella del Sur         3               Mineros del Norte       3
+Atlético Andina         5                 Halcones Verdes       1
+Cóndores Rojos          0                Estrella del Sur       3
+Sporting Selva           3                 Ciclón Central       5
+F.C. Nevado              0               Guerreros del Sol       3
+Mineros del Norte        1                Rayo del Oriente       1
+Titanes del Caribe       3                 Cóndores Rojos       1
+Jaguares Dorados         2              Titanes del Caribe       5
+Real Llanura             0              Titanes del Caribe       5
+Estrella del Sur         2                     F.C. Nevado       4
+F.C. Nevado              0                  Unión Costera       3
+Real Llanura             5                 Ciclón Central       2
+Titanes del Caribe       3                  Unión Costera       0
+Estrella del Sur         3                Rayo del Oriente       0
+Sporting Selva           0                Rayo del Oriente       2
+Mineros del Norte        0              Titanes del Caribe       1
+Ciclón Central          0               Deportivo Cafetal       0
+Halcones Verdes          0                Estrella del Sur       3
+Sporting Selva           1                 Cóndores Rojos       1
+Guerreros del Sol        4                    Real Llanura       1
+Ciclón Central          2                Jaguares Dorados       5
+Estrella del Sur         1                Atlético Andina       5
+Jaguares Dorados         1                    Real Llanura       3
+Real Llanura             0                Jaguares Dorados       5
+Titanes del Caribe       4                  Sporting Selva       5
+Unión Costera           4                Estrella del Sur       1
+Real Llanura             2                Atlético Andina       5
+Ciclón Central          0                  Sporting Selva       0
+Halcones Verdes          5                 Ciclón Central       0
+Ciclón Central          1                  Unión Costera       3
+Halcones Verdes          0                Atlético Andina       1
+Jaguares Dorados         2                Estrella del Sur       5
+Ciclón Central          0              Titanes del Caribe       5
+Titanes del Caribe       3               Deportivo Cafetal       5
+Ciclón Central          2                     F.C. Nevado       4
+Rayo del Oriente         2                    Real Llanura       1
+Unión Costera           0               Deportivo Cafetal       4
+Rayo del Oriente         5                Jaguares Dorados       0
+Mineros del Norte        1                 Ciclón Central       5
+Cóndores Rojos          2               Mineros del Norte       3
+Cóndores Rojos          2                  Unión Costera       3
+Titanes del Caribe       5                    Real Llanura       1
+Sporting Selva           4                  Unión Costera       5
+Estrella del Sur         4               Deportivo Cafetal       0
+Ciclón Central          2               Guerreros del Sol       2
+Halcones Verdes          3                Rayo del Oriente       1
+Atlético Andina         5                Jaguares Dorados       3
+Estrella del Sur         3                  Unión Costera       4
+Unión Costera           1                Atlético Andina       1
+Sporting Selva           2               Deportivo Cafetal       5
+Guerreros del Sol        0                Rayo del Oriente       2
+Halcones Verdes          2                  Unión Costera       4
+F.C. Nevado              4                Estrella del Sur       3
+Halcones Verdes          0                     F.C. Nevado       5
+Guerreros del Sol        0                 Cóndores Rojos       0
+Real Llanura             4                Estrella del Sur       2
+Rayo del Oriente         4               Deportivo Cafetal       4
+Rayo del Oriente         1               Guerreros del Sol       2
+Mineros del Norte        4                Jaguares Dorados       4
+Ciclón Central          2               Mineros del Norte       0
+Cóndores Rojos          5                  Sporting Selva       5
+Mineros del Norte        5                 Halcones Verdes       0
+Atlético Andina         5                Rayo del Oriente       2
+Ciclón Central          5                 Halcones Verdes       2
+Deportivo Cafetal        5                Estrella del Sur       0
+Deportivo Cafetal        3                  Sporting Selva       2
+Rayo del Oriente         3                  Unión Costera       4
+Sporting Selva           4              Titanes del Caribe       3
+Rayo del Oriente         0                Atlético Andina       0
+Unión Costera           3                     F.C. Nevado       5
+Ciclón Central          2                Atlético Andina       1
+Deportivo Cafetal        1               Mineros del Norte       5
+Unión Costera           1               Guerreros del Sol       3
+Atlético Andina         5                    Real Llanura       1
+Real Llanura             1                  Unión Costera       1
+Mineros del Norte        1               Deportivo Cafetal       0
+Titanes del Caribe       5                Estrella del Sur       0
+Estrella del Sur         1                  Sporting Selva       2
+Guerreros del Sol        0                  Unión Costera       1
+Mineros del Norte        1                     F.C. Nevado       1
+Deportivo Cafetal        3                 Ciclón Central       4
+Estrella del Sur         4                    Real Llanura       5
+F.C. Nevado              1                 Halcones Verdes       2
+Cóndores Rojos          2                Rayo del Oriente       0
+Jaguares Dorados         5                Atlético Andina       1
+F.C. Nevado              4               Deportivo Cafetal       4
+Guerreros del Sol        0                 Halcones Verdes       2
+Estrella del Sur         5                 Halcones Verdes       0
+Deportivo Cafetal        4                Jaguares Dorados       1
+Real Llanura             0                  Sporting Selva       4
+F.C. Nevado              2                    Real Llanura       3
+Estrella del Sur         0              Titanes del Caribe       2
+Deportivo Cafetal        4                    Real Llanura       1
+Rayo del Oriente         3                     F.C. Nevado       5
+Halcones Verdes          5                    Real Llanura       2
+Sporting Selva           5                    Real Llanura       0
+Guerreros del Sol        2               Deportivo Cafetal       5
+Halcones Verdes          5               Mineros del Norte       2

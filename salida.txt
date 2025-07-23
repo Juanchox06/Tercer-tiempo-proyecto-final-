@@ -1,0 +1,20 @@
+Tabla de Equipos
+------------------------------------------------------------------------------------------------
+Equipo                   PJ      Pts     GF      GC      DG      PG      PP      PE      
+------------------------------------------------------------------------------------------------
+Unión Costera                 28      50      74      65       9      15       8       5
+Deportivo Cafetal              28      47      77      55      22      14       9       5
+Mineros del Norte              28      47      72      61      11      14       9       5
+Halcones Verdes                28      46      68      72      -4      15      12       1
+Titanes del Caribe             28      43      89      72      17      13      11       4
+Sporting Selva                 28      43      82      65      17      13      11       4
+F.C. Nevado                    28      41      63      59       4      12      11       5
+Guerreros del Sol              28      39      50      56      -6      12      13       3
+Ciclón Central                28      39      66      81     -15      11      11       6
+Jaguares Dorados               28      36      66      70      -4      11      14       3
+Estrella del Sur               28      35      61      71     -10      11      15       2
+Rayo del Oriente               28      34      61      65      -4       9      12       7
+Real Llanura                   28      34      59      80     -21      10      14       4
+Atlético Andina               28      33      69      72      -3       9      13       6
+Cóndores Rojos                28      31      50      63     -13       9      15       4
+------------------------------------------------------------------------------------------------
